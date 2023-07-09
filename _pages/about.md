@@ -10,6 +10,13 @@ redirect_from:
 
 Bingchang Hou/侯炳昌 is a PhD student at the Shanghai Jiao Tong Univeristy. His research interests are mainly about machine condition monitoring by using signal processing and machine learning tools.
 
+Education
+-----
+2023.04\~present, Visiting Student, City University of Hong Kong, Hong Kong  
+2020.09\~present, Ph.D. Student in Industrial Engineering, Shanghai Jiao Tong University, Shanghai  
+2016.09\~2020.06, B.Eng in Mechanical Engineering, Chongqing University, Chongqing  
+
+-Thanks to [academicpages](https://github.com/academicpages/academicpages.github.io) in generating my webpages.
 
 <!--  注释语法 -->
 <!--
@@ -43,6 +50,4 @@ Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 -->
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/).
+
