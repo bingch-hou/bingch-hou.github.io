@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bingchang Hou（侯炳昌）"
+title                    : "Bingchang Hou"
 title_separator          : "-"
 name                     : &name "Bingchang Hou"
 description              : &description "a Ph.D student at SJTU"
