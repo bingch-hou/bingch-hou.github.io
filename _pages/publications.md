@@ -34,7 +34,7 @@ Research Topic 3: Data-driven interpretable optimized weights for machinery cond
 
 [J4] Bingchang Hou, Dong Wang, Zhike Peng, Kwok-Leung Tsui, Adaptive Fault Components Extraction by Using an Optimized Weights Spectrum based Index for Machinery Fault Diagnosis, 2023. IEEE Transactions on Industrial Electronics. 
 
-[J5] Bingchang Hou, Xiao Feng, Jinzhen Kong, Zhike Peng, Kwok-Leung Tsui, Optimized weights spectrum autocorrelation: A new and promising method for fault characteristic frequency identification for rotating Machine fault diagnosis, 2023, Mechanical Systems and Signal Processing.
+[J5] Bingchang Hou, Xiao Feng, Jinzhen Kong, Zhike Peng, Kwok-Leung Tsui, Dong Wang, Optimized weights spectrum autocorrelation: A new and promising method for fault characteristic frequency identification for rotating Machine fault diagnosis, 2023, Mechanical Systems and Signal Processing.
 
 [J6] Bingchang Hou, Yikai Chen, Hong Wang, Zhike Peng, Kwok-Leung Tsui, Dong Wang, OSESgram: Data Aided Method for Selection of Informative Frequency Bands for Bearing Fault Diagnosis. 2022, IEEE Transactions on Instrumentation and Measurement. 
 
