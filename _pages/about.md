@@ -16,6 +16,41 @@ Education
 2020.09\~present, Ph.D. Student in Industrial Engineering, Shanghai Jiao Tong University, Shanghai  
 2016.09\~2020.06, B.Eng in Mechanical Engineering, Chongqing University, Chongqing  
 
+Research work and publications
+-----
+*Topic 1: Sparsity measures with applications to machinery condition monitoring:
+
+[J5] Bingchang Hou, Dong Wang, et al., A Comparison of Machine Health Indicators based on the Impulsiveness of Vibration Signals. Acoustics Australia (2021). (Invited paper).
+
+[J4] Bingchang Hou, Dong Wang, et al., Adaptive Weighted Signal Preprocessing Technique for Machine Health Monitoring, IEEE Transactions on Instrumentation and Measurement, 70 (2021).
+
+[J3] Bingchang Hou, Dong Wang, et al., Gini Indices Ⅱ and Ⅲ: Two new sparsity measures and their applications for machine condition monitoring, IEEE-ASME Transactions on Mechatronics (2021). 
+
+[J2] Bingchang Hou, Dong Wang, et al., Generalized Gini Indices: Complementary Sparsity Measures to Box-Cox Sparsity Measures for Machine Condition Monitoring, Mechanical Systems and Signal Processing (2022). 
+
+[J1] Bingchang Hou, Dong Wang, et al., Investigations on Quasi-arithmetic Means for Machine Condition Monitoring. Mechanical Systems and Signal Processing, 151 (2021) 107451. 重要框架研究
+
+
+*Topic 2: Interpretable optimized weights for machinery condition monitoring
+
+[J7] Bingchang Hou, Dong Wang, Optimal Noise Subtraction based Fault Components Extraction for Machinery Fault Diagnosis, 2023, IEEE Transactions on Instrumentation and Measurement.
+
+[J6] Bingchang Hou, et al., OSESgram: Data Aided Method for Selection of Informative Frequency Bands for Bearing Fault Diagnosis. 2022, IEEE Transactions on Instrumentation and Measurement. 
+
+[J5] Bingchang Hou, et al., Optimized weights spectrum autocorrelation: A new and promising method for fault characteristic frequency identification for rotating Machine fault diagnosis, 2023, Mechanical Systems and Signal Processing.
+
+[J4] Bingchang Hou, Dong Wang, et al., Adaptive Fault Components Extraction by Using an Optimized Weights Spectrum based Index for Machinery Fault Diagnosis, 2023. IEEE Transactions on Industrial Electronics. 
+
+[J3] Bingchang Hou, Dong Wang, et al., Interpretable Online Updated Weights: Optimized Square Envelope Spectrum for Machine Condition Monitoring and Fault diagnosis, Mechanical Systems and Signal Processing (2022). (Used to be a ESI highly cited paper)
+
+[J2] Bingchang Hou, Dong Wang, et al., Difference Mode Decomposition for Adaptive Signal Decomposition, 2023, Mechanical Systems and Signal Processing.
+
+[J1] Bingchang Hou, Dong Wang, et al., Understanding Importance of Positive and Negative Signs of Optimized Weights Used in the Sum of Weighted Normalized Fourier Spectrum/Envelope Spectrum for Machine Condition Monitoring. 2022, Mechanical Systems and Signal Processing. 重要理论证明研究
+
+
+
+
+
 -Thanks to [academicpages](https://github.com/academicpages/academicpages.github.io) in generating my webpages.
 
 <!--  注释语法 -->
