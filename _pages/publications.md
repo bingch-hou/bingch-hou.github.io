@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Some open source codes can be find in [Matlab file exchange](https://ww2.mathworks.cn/matlabcentral/profile/authors/19498371). Below works are conducted during my Ph.D. study.
+
 
 Research Topic 1: Sparsity measures and their applications to machinery condition monitoring
 -----
