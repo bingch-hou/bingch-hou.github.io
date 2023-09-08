@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bingchang Hou/侯炳昌 is a PhD student at the Shanghai Jiao Tong Univeristy. His research interests are mainly about machine condition monitoring by using signal processing and machine learning tools.
+Bingchang Hou/侯炳昌 is a PhD student at the Shanghai Jiao Tong Univeristy. His research interests are mainly about machine condition monitoring by using signal processing and machine learning tools. Email: bingchanghou@sjtu.edu.cn
 
 Education
 -----
@@ -16,10 +16,8 @@ Education
 2020.09\~present, Ph.D. Student in Industrial Engineering, Shanghai Jiao Tong University, Shanghai  
 2016.09\~2020.06, B.Eng in Mechanical Engineering, Chongqing University, Chongqing  
 
-Research work and publications
+Research Topic 1: Sparsity measures and their applications to machinery condition monitoring
 -----
-*Topic 1: Sparsity measures with applications to machinery condition monitoring:
-
 [J5] Bingchang Hou, Dong Wang, et al., A Comparison of Machine Health Indicators based on the Impulsiveness of Vibration Signals. Acoustics Australia (2021). (Invited paper).
 
 [J4] Bingchang Hou, Dong Wang, et al., Adaptive Weighted Signal Preprocessing Technique for Machine Health Monitoring, IEEE Transactions on Instrumentation and Measurement, 70 (2021).
@@ -30,9 +28,8 @@ Research work and publications
 
 [J1] Bingchang Hou, Dong Wang, et al., Investigations on Quasi-arithmetic Means for Machine Condition Monitoring. Mechanical Systems and Signal Processing, 151 (2021) 107451. 重要框架研究
 
-
-*Topic 2: Interpretable optimized weights for machinery condition monitoring
-
+Research Topic 2: Data-driven interpretable optimized weights for machinery condition mmonitoring
+-----
 [J7] Bingchang Hou, Dong Wang, Optimal Noise Subtraction based Fault Components Extraction for Machinery Fault Diagnosis, 2023, IEEE Transactions on Instrumentation and Measurement.
 
 [J6] Bingchang Hou, et al., OSESgram: Data Aided Method for Selection of Informative Frequency Bands for Bearing Fault Diagnosis. 2022, IEEE Transactions on Instrumentation and Measurement. 
@@ -46,8 +43,6 @@ Research work and publications
 [J2] Bingchang Hou, Dong Wang, et al., Difference Mode Decomposition for Adaptive Signal Decomposition, 2023, Mechanical Systems and Signal Processing.
 
 [J1] Bingchang Hou, Dong Wang, et al., Understanding Importance of Positive and Negative Signs of Optimized Weights Used in the Sum of Weighted Normalized Fourier Spectrum/Envelope Spectrum for Machine Condition Monitoring. 2022, Mechanical Systems and Signal Processing. 重要理论证明研究
-
-
 
 
 
