@@ -7,7 +7,7 @@ author_profile: true
 Some open source codes can be find in [Matlab file exchange](https://ww2.mathworks.cn/matlabcentral/profile/authors/19498371). Below works are conducted during my Ph.D. study.
 
 
-Research Topic 1: Sparsity measures and their applications to machinery condition monitoring
+Research Topic 1: Basic research on sparsity measures and their applications to machinery condition monitoring
 -----
 [J1] Bingchang Hou, Dong Wang, Tangbin Xia, Yi Wang, Yang Zhao, Kwok-Leung Tsui, Investigations on Quasi-arithmetic Means for Machine Condition Monitoring. Mechanical Systems and Signal Processing, 151 (2021) 107451. （重要理论框架研究）
 
@@ -19,12 +19,14 @@ Research Topic 1: Sparsity measures and their applications to machinery conditio
 
 [J5] Bingchang Hou, Dong Wang, Tongtong Yan, Zhike Peng, A Comparison of Machine Health Indicators based on the Impulsiveness of Vibration Signals. Acoustics Australia (2021). (Invited paper).
 
-Research Topic 2: New methods to quantify and extract impulsive signal components
+Research Topic 2: Sparsity measures and new adavanced signal processing methods
 -----
-Related works are under review.
+Related works are under review. 
+
+A new signal processing method tailored for impulsive signal analysis is proposed and owns very good performance. The new method has been demonstrated to be useful in machinery fault diagnosis, ECG signal analysis, and EMAT signal analysis. If you have need in analyzing impulsive or pulse-like signals, you can contact me via Email.
 
 
-Research Topic 3: Data-driven interpretable optimized weights for machinery condition mmonitoring
+Research Topic 3: Sparsity-measure-inspired data-driven interpretable optimized weights for machinery condition mmonitoring
 -----
 [J1] Bingchang Hou, Dong Wang, Jinzhen Kong, Jie Liu, Zhike Peng, Kwok-Leung Tsui, Understanding Importance of Positive and Negative Signs of Optimized Weights Used in the Sum of Weighted Normalized Fourier Spectrum/Envelope Spectrum for Machine Condition Monitoring. 2022, Mechanical Systems and Signal Processing. （重要理论证明研究）
 
@@ -39,4 +41,6 @@ Research Topic 3: Data-driven interpretable optimized weights for machinery cond
 [J6] Bingchang Hou, Yikai Chen, Hong Wang, Zhike Peng, Kwok-Leung Tsui, Dong Wang, OSESgram: Data Aided Method for Selection of Informative Frequency Bands for Bearing Fault Diagnosis. 2022, IEEE Transactions on Instrumentation and Measurement. 
 
 [J7] Bingchang Hou, Dong Wang, Optimal Noise Subtraction based Fault Components Extraction for Machinery Fault Diagnosis, 2023, IEEE Transactions on Instrumentation and Measurement.
+
+[J8] Bingchang Hou, Jie Liu, Dong Wang, Easier Computational Approach of Optimized Weights and Its Extensions for Learning Interpretable Machine Fault Features, 2023, IEEE Transactions on Instrumentation and Measurement.
 
