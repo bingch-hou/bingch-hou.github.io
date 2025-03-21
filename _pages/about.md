@@ -14,12 +14,9 @@ Some open source codes can be find in [Matlab file exchange](https://ww2.mathwor
 
 Education
 -----
-2020.09\~2024.12, Ph.D. Student in Industrial Engineering, Shanghai Jiao Tong University, Shanghai
+2020.09\~2024.12, Ph.D. Student in Industrial Engineering, Shanghai Jiao Tong University, Shanghai   
 2023.04\~2024.04, Visiting Student and RA, City University of Hong Kong, Hong Kong  
 2016.09\~2020.06, B.Eng in Mechanical Engineering, Chongqing University, Chongqing  
-
-
--Thanks to [academicpages](https://github.com/academicpages/academicpages.github.io) in generating my webpages.
 
 <!--  注释语法 -->
 <!--
