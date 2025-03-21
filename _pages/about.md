@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Bingchang Hou/侯炳昌 is a PhD student at the Shanghai Jiao Tong Univeristy. His research interests are mainly about machine condition monitoring by using signal processing and machine learning tools. Email: bingchanghou@sjtu.edu.cn
+Bingchang Hou Received his PhD degree from School of Mechanical Enginerring, Shanghai Jiao Tong Univeristy. His research interests are mainly about machine condition monitoring by using signal processing and machine learning tools. Email: bingchang_hou@outlook.com
 
 Some open source codes can be find in [Matlab file exchange](https://ww2.mathworks.cn/matlabcentral/profile/authors/19498371).
 
 Education
 -----
-2023.04\~present, Visiting Student, City University of Hong Kong, Hong Kong  
-2020.09\~present, Ph.D. Student in Industrial Engineering, Shanghai Jiao Tong University, Shanghai  
+2020.09\~2024.12, Ph.D. Student in Industrial Engineering, Shanghai Jiao Tong University, Shanghai
+2023.04\~2024.04, Visiting Student and RA, City University of Hong Kong, Hong Kong  
 2016.09\~2020.06, B.Eng in Mechanical Engineering, Chongqing University, Chongqing  
 
 
